@@ -1,0 +1,2 @@
+# safe
+python_code
